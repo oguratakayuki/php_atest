@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="200" height="200">
+  <!-- 林檎の本体 -->
+  <circle cx="32" cy="36" r="20" fill="#e63946" />
+  
+  <!-- 葉っぱ -->
+  <path d="M42 10c-2 4-6 7-10 6s-8-5-6-10 6-6 10-4 8 4 6 8z" fill="#2a9d8f" />
+  
+  <!-- 枝 -->
+  <rect x="30" y="8" width="4" height="12" fill="#8d4a43" />
+
+  <!-- ハイライト -->
+  <ellipse cx="24" cy="28" rx="4" ry="8" fill="rgba(255, 255, 255, 0.5)" />
+</svg>
+
